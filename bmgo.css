@@ -1,0 +1,31 @@
+h1{
+color: #00FFEC; 
+}
+body{
+	background-image:url("unnamed.png");
+}
+.para1{
+padding: 10px ;
+border: 10px black solid;
+text-align: center;
+color: black;
+background-color:  white;
+}
+ul li{
+	display: inline;
+	padding-left: 40px;
+	padding-right: 40px;
+	background-color: black;
+	color: white;
+}
+ul a{
+	color:#00FFEC;
+	text-decoration: none;
+}
+.fighting-boom{
+	background-color: black;
+	padding: 20px;
+	text-align: center;
+	font-family: verdana
+
+}
